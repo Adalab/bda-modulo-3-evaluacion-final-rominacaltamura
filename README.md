@@ -1,6 +1,9 @@
 📊 DA Módulo 3 – Evaluación Final
+Alumna: Romina Altamura González
+
 
 Análisis y visualización de datos de un programa de lealtad de aerolínea.
+
 
 📁 Descripción del proyecto
 
@@ -30,11 +33,12 @@ Además, se aplicó una regla clave del dataset:
 ⚠️ Cada combinación única Loyalty Number + Year + Month debe existir solo una vez.
 Si aparecen duplicados, son considerados errores del dataset.
 
-Se generó un reporte de duplicados y se creó una versión limpia del dataset.
+Una vez analizado, se procedio a la limpieza y se creó una versión limpia del dataset la cual se nombró como Loyalty_Program_limpio.csv y que encontrarán dentro de este repositorio.
+
 
 📈 Visualizaciones incluidas
 
-Se responden las preguntas solicitadas mediante gráficos:
+En el archivo final visualizacion.ipynb se responden las preguntas solicitadas mediante gráficos:
 
 Distribución de vuelos reservados por mes
 
@@ -48,7 +52,14 @@ Proporción de tipos de tarjetas de fidelidad
 
 Distribución por estado civil y género
 
-Todas las figuras se guardan en la carpeta outputs/.
+
+
+
+![alt text](image-1.png)
+
+![alt text](image.png)
+
+
 
 
 ✔️ Contenidos evaluados
